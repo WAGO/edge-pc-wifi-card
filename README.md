@@ -6,8 +6,12 @@ Follow these steps to configure and enable Wi-Fi on your Edge PC.
 
 ## ✅ Prerequisites
 
+- WAGO Edge Computer 752-94xx
 - Wi-Fi card is physically installed in the Edge PC
-
+  → WAGO order number: `8103-3000/0000-0009`
+- Latest WAGO OS installed
+ → https://downloadcenter.wago.com/wago/software/details/mfgikzq7c3ra4l9ejo
+SSH access **or** Cockpit 
 ---
 
 ## 🖥️ Using Cockpit UI (Recommended)
