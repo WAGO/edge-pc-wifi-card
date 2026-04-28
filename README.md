@@ -100,6 +100,7 @@ save
 quit
 ```
 Saves configuration and exits editor
+
 ---
 ### 🔄 Final Steps
 ```bash
