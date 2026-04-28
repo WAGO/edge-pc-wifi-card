@@ -12,8 +12,9 @@ Follow these steps to configure and enable Wi-Fi on your Edge PC.
 
 ## 🖥️ Using Cockpit UI (Recommended)
 
-1. Open the **Cockpit Web Interface**
-2. Open the **Terminal** via the sidebar
+1. Open the **Cockpit Web Interface** ((http://IP-EDGE:9090)
+   
+3. Open the **Terminal** via the sidebar
 
 ### Scan and Connect to Wi-Fi
 
@@ -43,7 +44,7 @@ DNS
 
 Use this if you need manual network configuration instead of DHCP.
 ---
-###⚙️ Alternative: Full Configuration via Terminal
+### ⚙️ Alternative: Full Configuration via Terminal
 
 If the connection fails, configure everything manually:
 ```bash
@@ -85,7 +86,7 @@ quit
 ```
 Saves configuration and exits editor
 ---
-###🔄 Final Steps
+### 🔄 Final Steps
 ```bash
 nmcli radio wifi on
 ```
@@ -95,7 +96,7 @@ systemctl restart NetworkManager
 ```
 Restarts the network service to apply changes
 ---
-✅ Done
+### ✅ Done
 
 Your Edge PC should now be connected to Wi-Fi.
 
