@@ -116,3 +116,11 @@ Restarts the network service to apply changes
 
 Your Edge PC should now be connected to Wi-Fi.
 
+---
+### 📺 Additional Videos
+
+Here are three additional video that can be shared or promoted within the documentation, README, or presentation:
+
+* https://youtu.be/5aUulYFRRFo
+
+These videos can provide further context, demonstrations, or insights.
