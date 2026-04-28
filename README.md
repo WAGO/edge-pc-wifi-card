@@ -56,6 +56,11 @@ Use this if you need manual network configuration instead of DHCP.
 ---
 ### ⚙️ Alternative: Full Configuration via Terminal
 
+```bash
+nmcli radio wifi on
+```
+Turn on the Wi-Fi card
+
 If the connection fails, configure everything manually:
 ```bash
 nmcli device wifi list
