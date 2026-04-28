@@ -119,7 +119,7 @@ Your Edge PC should now be connected to Wi-Fi.
 ---
 ### 📺 Additional Video
 
-Here are three additional video that can be shared or promoted within the documentation, README, or presentation:
+Here are an additional video that can be shared or promoted within the documentation, README, or presentation:
 
 * https://youtu.be/5aUulYFRRFo
 
