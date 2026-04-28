@@ -43,6 +43,7 @@ After connecting:
   - DNS  
 
 Use this if you need manual network configuration instead of DHCP.
+Use this if you need manual network configuration instead of DHCP.
 ---
 ### ⚙️ Alternative: Full Configuration via Terminal
 
