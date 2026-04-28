@@ -23,6 +23,11 @@ Follow these steps to configure and enable Wi-Fi on your Edge PC.
 ### Scan and Connect to Wi-Fi
 
 ```bash
+nmcli wifi on
+```
+Turn on the Wi-Fi card
+
+```bash
 nmcli device wifi rescan
 ```
 Scans for available Wi-Fi networks
