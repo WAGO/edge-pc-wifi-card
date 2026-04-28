@@ -12,7 +12,7 @@ Follow these steps to configure and enable Wi-Fi on your Edge PC.
 
 ## 🖥️ Using Cockpit UI (Recommended)
 
-1. Open the **Cockpit Web Interface** ((http://IP-EDGE:9090)
+1. Open the **Cockpit Web Interface** (http://IP-EDGE:9090)
    
 3. Open the **Terminal** via the sidebar
 
@@ -31,16 +31,16 @@ nmcli device wifi connect YOUR-WIFI password YOUR-PASSWORD
 ```
 Connects to the selected Wi-Fi network
 
-🌐 Configure Network Settings
+### 🌐 Configure Network Settings
 
 After connecting:
 
-Go to the Networking section in Cockpit
-Select the Wi-Fi adapter
-Configure settings such as:
-Static IP
-Gateway / Router
-DNS
+- Open **Networking** in Cockpit  
+- Select the **Wi-Fi adapter**  
+- Configure:
+  - Static IP  
+  - Gateway / Router  
+  - DNS  
 
 Use this if you need manual network configuration instead of DHCP.
 ---
